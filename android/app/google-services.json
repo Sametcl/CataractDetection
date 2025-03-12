@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1885056204",
+    "firebase_url": "https://cataractapp-ae8f5-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "cataractapp-ae8f5",
+    "storage_bucket": "cataractapp-ae8f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1885056204:android:8b6203ea8f6287dc57a669",
+        "android_client_info": {
+          "package_name": "com.example.cataractapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Uz3etFZPDAfxrM9LYtHRpKpSZs9nVu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1885056204:android:773260921c04c2b757a669",
+        "android_client_info": {
+          "package_name": "com.example.eyedetection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Uz3etFZPDAfxrM9LYtHRpKpSZs9nVu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
